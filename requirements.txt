@@ -12,7 +12,7 @@ pandas
 plotly
 plotly-express==0.4.1
 SQLAlchemy
-Werkzeug
+Werkzeug==2.3.3
 dash.dependencies
 
 
