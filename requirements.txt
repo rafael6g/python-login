@@ -12,7 +12,8 @@ pandas
 plotly
 plotly-express==0.4.1
 SQLAlchemy
-Werkzeug==2.0.0
+Werkzeug
 dash.dependencies
+/opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
 
 gunicorn
