@@ -10,7 +10,6 @@ numpy
 pandas
 plotly
 plotly-express==0.4.1
-plotly.graph_objects
 SQLAlchemy
 Werkzeug==2.2.3
 os
