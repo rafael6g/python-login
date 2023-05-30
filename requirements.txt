@@ -1,19 +1,13 @@
-configparse==0.1.5
 configparser==5.3.0
 dash==2.9.3
-dash-auth==2.0.0
 dash-bootstrap-components==1.4.1
 dash-bootstrap-templates==1.0.8
 db-sqlite3==0.0.1
 Flask==2.2.3
 Flask-Login==0.6.2
 Flask-SQLAlchemy==2.5.0
-nbformat==5.4.0
 numpy @ file:///C:/ci/numpy_and_numpy_base_1653574844560/work
-numpydoc @ file:///C:/Windows/TEMP/abs_30799058-86dd-4401-b621-d172137a4d87_ra3twm7/croots/recipe/numpydoc_1657529873713/work
 pandas @ file:///C:/b/abs_cdcgk91igc/croots/recipe/pandas_1663772960432/work
-pathlib @ file:///Users/ktietz/demo/mc3/conda-bld/pathlib_1629713961906/work
-pathspec @ file:///C:/Windows/TEMP/abs_581d0u45mh/croots/recipe/pathspec_1659627132171/work
 plotly @ file:///C:/ci/plotly_1658142442431/work
 plotly-express==0.4.1
 SQLAlchemy @ file:///C:/Windows/Temp/abs_f8661157-660b-49bb-a790-69ab9f3b8f7c8a8s2psb/croots/recipe/sqlalchemy_1657867864564/work
