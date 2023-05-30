@@ -13,7 +13,4 @@ plotly
 plotly-express==0.4.1
 SQLAlchemy
 Werkzeug==2.0.0
-dash.dependencies
-
-
 gunicorn
